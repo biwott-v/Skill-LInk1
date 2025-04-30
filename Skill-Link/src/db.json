@@ -1,0 +1,204 @@
+{
+    "personnel": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "skills": ["JavaScript", "React", "Node.js"],
+            "description": "Frontend Developer with expertise in React and Node.js.",
+            "yearsOfExperience": 5,
+            "level": "Senior"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "skills": ["Python", "Django", "Machine Learning"],
+            "description": "Backend Developer with a focus on Machine Learning.",
+            "yearsOfExperience": 4,
+            "level": "Mid-Level"
+        },
+        {
+            "id": 3,
+            "name": "Alice Johnson",
+            "skills": ["Java", "Spring Boot", "Microservices"],
+            "description": "Java Developer specializing in Microservices architecture.",
+            "yearsOfExperience": 6,
+            "level": "Senior"
+        },
+        {
+            "id": 4,
+            "name": "Bob Brown",
+            "skills": ["HTML", "CSS", "Bootstrap", "Painting"],
+            "description": "UI/UX Designer with a strong focus on responsive design.",
+            "yearsOfExperience": 3,
+            "level": "Junior"
+        },
+        {
+            "id": 5,
+            "name": "Chris Green",
+            "skills": ["Basketball", "Team Leadership", "Strategy"],
+            "description": "Sports Coach with a passion for basketball and team building.",
+            "yearsOfExperience": 7,
+            "level": "Senior"
+        },
+        {
+            "id": 6,
+            "name": "Emma White",
+            "skills": ["Painting", "Graphic Design", "Illustration"],
+            "description": "Creative Artist with expertise in painting and digital illustration.",
+            "yearsOfExperience": 4,
+            "level": "Mid-Level"
+        },
+        {
+            "id": 7,
+            "name": "Liam Black",
+            "skills": ["C++", "Embedded Systems", "IoT"],
+            "description": "Embedded Systems Engineer with a focus on IoT devices.",
+            "yearsOfExperience": 5,
+            "level": "Senior"
+        },
+        {
+            "id": 8,
+            "name": "Sophia Blue",
+            "skills": ["Public Speaking", "Event Management", "Leadership"],
+            "description": "Event Manager with expertise in public speaking and team coordination.",
+            "yearsOfExperience": 6,
+            "level": "Senior"
+        },
+        {
+            "id": 9,
+            "name": "Ethan Gray",
+            "skills": ["Cybersecurity", "Networking", "Linux"],
+            "description": "Cybersecurity Specialist with a strong background in network security.",
+            "yearsOfExperience": 4,
+            "level": "Mid-Level"
+        },
+        {
+            "id": 10,
+            "name": "Olivia Violet",
+            "skills": ["Photography", "Photo Editing", "Videography"],
+            "description": "Photographer with a passion for capturing moments and editing visuals.",
+            "yearsOfExperience": 3,
+            "level": "Junior"
+        },
+        {
+            "id": 11,
+            "name": "Noah Brown",
+            "skills": ["Data Analysis", "SQL", "Excel"],
+            "description": "Data Analyst with expertise in SQL and data visualization.",
+            "yearsOfExperience": 5,
+            "level": "Mid-Level"
+        },
+        {
+            "id": 12,
+            "name": "Ava Green",
+            "skills": ["Marketing", "SEO", "Content Creation"],
+            "description": "Digital Marketer with a focus on SEO and content strategy.",
+            "yearsOfExperience": 4,
+            "level": "Mid-Level"
+        },
+        {
+            "id": 13,
+            "name": "Mason White",
+            "skills": ["Carpentry", "Woodworking", "Design"],
+            "description": "Carpenter with a passion for creating custom furniture.",
+            "yearsOfExperience": 7,
+            "level": "Senior"
+        },
+        {
+            "id": 14,
+            "name": "Isabella Red",
+            "skills": ["Teaching", "Curriculum Design", "Mentoring"],
+            "description": "Educator with expertise in curriculum development and mentoring.",
+            "yearsOfExperience": 8,
+            "level": "Senior"
+        },
+        {
+            "id": 15,
+            "name": "James Yellow",
+            "skills": ["Welding", "Metal Fabrication", "Blueprint Reading"],
+            "description": "Welder with experience in metal fabrication and blueprint interpretation.",
+            "yearsOfExperience": 6,
+            "level": "Senior"
+        },
+        {
+            "id": 16,
+            "name": "Mia Orange",
+            "skills": ["Cooking", "Baking", "Menu Planning"],
+            "description": "Chef with a passion for creating unique culinary experiences.",
+            "yearsOfExperience": 5,
+            "level": "Mid-Level"
+        },
+        {
+            "id": 17,
+            "name": "Lucas Purple",
+            "skills": ["Fitness Training", "Nutrition", "Motivation"],
+            "description": "Personal Trainer with expertise in fitness and nutrition.",
+            "yearsOfExperience": 4,
+            "level": "Mid-Level"
+        },
+        {
+            "id": 18,
+            "name": "Charlotte Pink",
+            "skills": ["Fashion Design", "Sewing", "Trend Analysis"],
+            "description": "Fashion Designer with a focus on modern trends and custom designs.",
+            "yearsOfExperience": 6,
+            "level": "Senior"
+        },
+        {
+            "id": 19,
+            "name": "Benjamin Cyan",
+            "skills": ["3D Modeling", "Animation", "Game Design"],
+            "description": "3D Artist with expertise in animation and game design.",
+            "yearsOfExperience": 5,
+            "level": "Mid-Level"
+        },
+        {
+            "id": 20,
+            "name": "Amelia Indigo",
+            "skills": ["Writing", "Editing", "Storytelling"],
+            "description": "Writer with a passion for storytelling and content creation.",
+            "yearsOfExperience": 7,
+            "level": "Senior"
+        },
+        {
+            "id": 21,
+            "name": "Henry Teal",
+            "skills": ["Electrical Services", "Circuit Design", "Robotics"],
+            "description": "Electrical Engineer with a focus on robotics and automation.",
+            "yearsOfExperience": 6,
+            "level": "Senior"
+        },
+        {
+            "id": 22,
+            "name": "Ella Lime",
+            "skills": ["Plumbing Solutions", "Landscaping", "Horticulture"],
+            "description": "Plumber with expertise in plumbing and plant care.",
+            "yearsOfExperience": 5,
+            "level": "Mid-Level"
+        },
+        {
+            "id": 23,
+            "name": "Alexander Gold",
+            "skills": ["AC Technician", "Tax Preparation", "Financial Analysis"],
+            "description": "AC Technician with a focus on cooling systems.",
+            "yearsOfExperience": 8,
+            "level": "Senior"
+        },
+        {
+            "id": 24,
+            "name": "Grace Silver",
+            "skills": ["Mobile Car Wash", "Conflict Resolution", "Communication"],
+            "description": "Car Wash Specialist with a focus on mobile services.",
+            "yearsOfExperience": 3,
+            "level": "Junior"
+        },
+        {
+            "id": 25,
+            "name": "Daniel Bronze",
+            "skills": ["House Painting", "Quality Assurance", "Automation"],
+            "description": "Painter with expertise in house painting and finishing.",
+            "yearsOfExperience": 4,
+            "level": "Mid-Level"
+        }
+    ]
+}
